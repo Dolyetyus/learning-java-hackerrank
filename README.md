@@ -1,2 +1,2 @@
 # learning-java-hackerrank
-After 4 years, I'm having to learn Java finally. Here are the solutions of Hackerrank for Java. I hate java.
+After 4 years, I'm having to learn Java for Software Design. I'm learning java using hackerrank so here are the solutions of Hackerrank for Java. I hate java.
